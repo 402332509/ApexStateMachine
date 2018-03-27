@@ -27,6 +27,10 @@ public class ApexStateMachine {
     }
 
     public ApexStateMachine(String init, List<transition> transitions, list<LifecycleEvent> events) {
+
+    }
+
+    public enterEvent(){
         
     }
 }
